@@ -1,0 +1,5 @@
+pymysql
+python-dotenv
+google-api-python-client
+isodate
+python-dateutil
